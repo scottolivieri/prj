@@ -1,1 +1,6 @@
 my file
+
+var x = myFunction(a, b){
+	alert(a+b);
+}
+
